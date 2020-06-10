@@ -20,3 +20,12 @@
 * Escape of `ESC`- Don't want to keep changes instead of Undo
 * Double Click or `F2`
 * Auto Sum
+
+**Fill Handle**
+* Fill Handle - Quickly Copy, Drag, Double Click
+* Can select multiple columns and double click
+* Fill Handle Dates
+* Fill Handle Numbers
+* Fill Handle Names
+* Fill Handle Email (Flash Fill)
+* Fill Handle First & Last Name (Flash Fill)
