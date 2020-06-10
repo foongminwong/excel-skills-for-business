@@ -15,3 +15,8 @@
 * Split
 * Freeze/ Unfreeze Panes
 * Switch Widnows SHortcut`CTRL + F6`
+
+**Data Entry, Data Types, Editing and Deleting**
+* Escape of `ESC`- Don't want to keep changes instead of Undo
+* Double Click or `F2`
+* Auto Sum
