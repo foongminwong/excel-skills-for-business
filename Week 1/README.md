@@ -29,3 +29,7 @@
 * Fill Handle Names
 * Fill Handle Email (Flash Fill)
 * Fill Handle First & Last Name (Flash Fill)
+
+**Copy & Paste**
+
+**Templates**
