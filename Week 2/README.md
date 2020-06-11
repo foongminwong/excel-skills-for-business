@@ -28,6 +28,14 @@
 
 ![]()
 
+**Functions II: AVERAGE, MIN and MAX**
+* Average
+
+![]()
+
+* Min and Max
+
+![]()
 
 
 
