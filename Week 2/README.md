@@ -43,7 +43,26 @@
 
 ![]()
 
-****
+**Calculations across sheets**
+* Sales Data
+* Relative reference across sheets
+* Calculations across sheets - Part 1
+
+![]()
+
+* Calculations across sheets - Part 2
+
+![]()
+
+**Wrap-Up**
+* Formulas
+* Functions
+* References across sheets
+* Absolute, Mixed x2, Relative References - `F4
+* `CTRL + ~ (CTRL + ``)` — Show formulas in the worksheet`
+* `CTRL + PgUp (CMD + PgUp)` — Go to the previous sheet.
+* `CTRL + PgDn (CMD + PgDn)` — Go to the next sheet.
+
 
 
 
