@@ -23,6 +23,12 @@
 
 ![]()
 
+**Functions I: SUM and AUTOSUM**
+* Autosum Function & Drag
+
+![]()
+
+
 
 
 
