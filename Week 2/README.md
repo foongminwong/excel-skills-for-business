@@ -37,6 +37,13 @@
 
 ![]()
 
+**Absolute Cell References**
+* Prevent from copying the formula
+* `F4`
+
+![]()
+
+****
 
 
 
