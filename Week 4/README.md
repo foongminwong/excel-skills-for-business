@@ -6,3 +6,8 @@
 * Insert multiple 
 * Hide columns instead of deleting data
 * Unhide
+
+**Find and Replace**
+* Find All
+* Replace All
+
