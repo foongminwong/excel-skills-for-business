@@ -14,4 +14,9 @@
 
 ![]()
 
-****
+**Number Formats**
+
+**Styles and Themes**
+* `CTRL + SHIFT + -->` select the filled cells on the right
+
+**Graphics**
