@@ -31,5 +31,7 @@
 whereas Quick Layout alters the types of chart elements that are displayed and their location 
 in the Chart Area.
 
+**Modify Chart Elements**
+
 
 
