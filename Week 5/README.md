@@ -18,3 +18,4 @@
 * Freeze Panes won't work for printing
 * `Page Layout` -> `Print Titles`
 * Print Area
+* Print Titles -> Rows to repeat at top & Columns to repeat at left
