@@ -13,3 +13,8 @@
 * Page Break Mode
 * Manually adjust page break line
 * Can use page break tool to control the scale
+
+**Print Titles**
+* Freeze Panes won't work for printing
+* `Page Layout` -> `Print Titles`
+* Print Area
