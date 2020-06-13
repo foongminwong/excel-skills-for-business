@@ -51,3 +51,8 @@
 * Color Scales - Falls within Range
 * Icon Sets
 * Need to select the range you want to apply `Conditional Formatting`
+
+**Conditional Formatting vs Filtering**
+Filtering will only show data that matches the criteria. You can provide multiple filters, but only data that matches all conditions will be visible.
+
+Conditional formatting will show data that fits any of the conditions chosen. It also provides more visual and graphical elements.
