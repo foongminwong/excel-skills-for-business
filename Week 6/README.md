@@ -27,4 +27,9 @@
 ![]()
 
 **Change Chart Style & Type**
-* 
+* Chart Styles primarily changes the font and shading of existing chart elements, 
+whereas Quick Layout alters the types of chart elements that are displayed and their location 
+in the Chart Area.
+
+
+
