@@ -33,5 +33,7 @@ in the Chart Area.
 
 **Modify Chart Elements**
 
+**Sharing Charts**
+
 
 
