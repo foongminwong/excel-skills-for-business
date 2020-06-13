@@ -37,4 +37,17 @@
 
 ![]()
 
-****
+**Conditional Formatting**
+* Numeric Data
+
+![]()
+
+* Text Data
+
+![]()
+
+* Higher numbers have longer data bus, smaller numbers have shorter data bus
+* Data Bars
+* Color Scales - Falls within Range
+* Icon Sets
+* Need to select the range you want to apply `Conditional Formatting`
