@@ -20,3 +20,11 @@
 
 ![]()
 
+**Move and Resize Charts**
+* Move charts - Right Click -> Move Chart to different/new sheet
+* Don't need to copy chart anymore
+
+![]()
+
+**Change Chart Style & Type**
+* 
