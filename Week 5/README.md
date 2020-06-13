@@ -27,3 +27,7 @@
 * Add full path of the filename
 * Headers often contain the company name and logo, or the author name to the report as well as the title.
 * Headers are a great way to add a specific piece of information at the top of every printed page
+
+**Save Options**
+* Save as One Page
+* Change Excel saving type
