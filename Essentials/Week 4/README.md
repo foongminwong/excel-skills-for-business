@@ -14,37 +14,37 @@
 **Filtering**
 * Simple Filter
 
-![]()
+![](screenshot/simple-filter.gif)
 
 * Multiple Filters
 
-![]()
+![](screenshot/multiple-filters.gif)
 
 * Clear Filter
 
-![]()
+![](screenshot/clear-filter.gif)
 
 * Top 20 Total Orders
 
-![]()
+![](screenshot/top-20-filter.gif)
 
 **Sorting**
 * Sort Names / `Account Manager`
 
-![]()
+![](screenshot/sort-names.gif)
 
 * Sort More than 1 Level/ Multi-level sorting
 
-![]()
+![](screenshot/sort-multiple-levels.gif)
 
 **Conditional Formatting**
 * Numeric Data
 
-![]()
+![](screenshot/conditional-formatting-numeric.gif)
 
 * Text Data
 
-![]()
+![](screenshot/conditional-formatting-text-data.gif)
 
 * Higher numbers have longer data bus, smaller numbers have shorter data bus
 * Data Bars

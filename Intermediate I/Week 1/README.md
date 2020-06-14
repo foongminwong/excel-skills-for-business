@@ -12,16 +12,16 @@
 * Don't move your sheets too much when using 3d formulas
 * Summing values across multiple worksheets where the structure is the same
 
-![]()
+![](screenshot/3d-formulas.gif)
 
 **Linking Workbooks**
 * `Arrange All`
 
-![]()
+![](screenshot/arrange-all.gif)
 
 * `Edit Links`
 
-![]()
+![](screenshot/edit-links.gif)
 
 * Once you have linked workbooks, you need to ensure that they stay in their original location otherwise the links will not be able to update. If the files do move, then you can update the links to the new location.
 * Linking workbooks allows us to create formulas that draw on values contained in other workbooks.
@@ -30,7 +30,7 @@
 * Once you setup consolidation, it actually remembers it
 * If you change values in one of the workbooks, you need to rerun Consolidation
 
-![]()
+![](screenshot/consolidating-by-position.gif)
 
 * You cannot undo Consolidation with Links.
 * When you are linking to a data source, the "Create link to data source" check box should be ticked in Consolidate dialog box.
@@ -40,9 +40,15 @@
 **Consolidating by Category (Reference)**
 * Summarizing data from separate workbooks that need not be totally identical
 
-![]()
+* By Sum
 
-* Consolidating by Position assumes that the data being consolidated in multiple workbooks has the same position in the different spreadsheets. However, Consolidating by Category (Reference) looks for the data to be consolidated via a reference to a parameter.
+![](screenshot/consolidating-by-reference-sum.gif)
+
+* By Average
+
+![](screenshot/consolidating-by-reference-average.gif)
+
+* Consolidating by Position assumes that the data being consolidated in multiple workbooks **has the same position**in the different spreadsheets. However, Consolidating by Category (Reference) looks for the data to be consolidated via a reference to a parameter.
 * Excel can also be used to consolidate by reference when the column headings are different, Sean must just tick the top row option.
 
 
@@ -53,3 +59,4 @@
 3. Consolidating by Category (Reference)
 
 **Final Assessment**
+* use 3D formulas to summarise the total quantity sold of item 3243

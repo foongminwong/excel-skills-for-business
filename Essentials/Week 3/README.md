@@ -12,7 +12,7 @@
 **Format Painter**
 * Copy multiple formats simultaneously
 
-![]()
+![](screenshot/format-painter.gif)
 
 **Number Formats**
 
