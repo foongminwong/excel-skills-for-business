@@ -37,4 +37,17 @@
 * The Consolidate feature has a whole range of functions that you can use.
 * The Consolidate feature is located on the Data tab.
 
-****
+**Consolidating by Category (Reference)**
+* Summarizing data from separate workbooks that need not be totally identical
+
+![]()
+
+* Consolidating by Position assumes that the data being consolidated in multiple workbooks has the same position in the different spreadsheets. However, Consolidating by Category (Reference) looks for the data to be consolidated via a reference to a parameter.
+* Excel can also be used to consolidate by reference when the column headings are different, Sean must just tick the top row option.
+
+
+**3 ways working with data:**
+* Choose the right option to match your business case
+1. Linking
+2. Consolidating by Position
+3. Consolidating by Category (Reference)
