@@ -5,11 +5,11 @@
 
 * Sort Ascending - Add to Quick Access
 
-![Sort Ascending - Add to Quick Access](https://github.com/foongminwong/excel-skills-for-business/blob/master/Week%201/screenshot/sort-ascending-quick-access.gif)
+![Sort Ascending - Add to Quick Access](screenshot/sort-ascending-quick-access.gif)
 
 * Numerica Data Status Bar (Average, Count, Sum)
 
-![Numerica Data Status Bar (Average, Count, Sum)](https://github.com/foongminwong/excel-skills-for-business/blob/master/Week%201/screenshot/numeric-data-status-bar.gif)
+![Numerica Data Status Bar (Average, Count, Sum)](screenshot/numeric-data-status-bar.gif)
 
 **Navigating & Selecting**
 
@@ -20,19 +20,19 @@
 **View Options**
 
 * Zoom 100%
-![](https://github.com/foongminwong/excel-skills-for-business/blob/master/Week%201/screenshot/zoom-100.gif)
+![](screenshot/zoom-100.gif)
 
 * Split
 
-![](https://github.com/foongminwong/excel-skills-for-business/blob/master/Week%201/screenshot/split.gif)
+![](screenshot/split.gif)
 
 * Freeze/ Unfreeze Panes
 
-![](https://github.com/foongminwong/excel-skills-for-business/blob/master/Week%201/screenshot/freeze-unfreeze-panes.gif)
+![](screenshot/freeze-unfreeze-panes.gif)
 
 * Switch Widnows SHortcut`CTRL + F6`
 
-![](https://github.com/foongminwong/excel-skills-for-business/blob/master/Week%201/screenshot/switch-windows.gif)
+![](screenshot/switch-windows.gif)
 
 **Data Entry, Data Types, Editing and Deleting**
 * Escape of `ESC`- Don't want to keep changes instead of Undo
@@ -40,7 +40,7 @@
 
 * Auto Sum
 
-![Auto Sum](https://github.com/foongminwong/excel-skills-for-business/blob/master/Week%201/screenshot/auto-sum.gif)
+![Auto Sum](screenshot/auto-sum.gif)
 
 **Fill Handle**
 
@@ -50,23 +50,23 @@
 
 * Fill Handle Dates
 
-![](https://github.com/foongminwong/excel-skills-for-business/blob/master/Week%201/screenshot/fill-handles-dates.gif)
+![](screenshot/fill-handles-dates.gif)
 
 * Fill Handle Numbers
 
-![](https://github.com/foongminwong/excel-skills-for-business/blob/master/Week%201/screenshot/fill-handles-numbers.gif)
+![](screenshot/fill-handles-numbers.gif)
 
 * Fill Handle Names
 
-![](https://github.com/foongminwong/excel-skills-for-business/blob/master/Week%201/screenshot/fill-handles-names.gif)
+![](screenshot/fill-handles-names.gif)
 
 * Fill Handle Email (Flash Fill)
 
-![](https://github.com/foongminwong/excel-skills-for-business/blob/master/Week%201/screenshot/fill-handles-emails.gif)
+![](screenshot/fill-handles-emails.gif)
 
 * Fill Handle First & Last Name (Flash Fill)
 
-![](https://github.com/foongminwong/excel-skills-for-business/blob/master/Week%201/screenshot/fill-handles-names-flash-fill.gif)
+![](screenshot/fill-handles-names-flash-fill.gif)
 
 **Copy & Paste**
 
