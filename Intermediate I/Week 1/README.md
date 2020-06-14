@@ -14,4 +14,15 @@
 
 ![]()
 
-****
+**Linking Workbooks**
+* `Arrange All`
+
+![]()
+
+* `Edit Links`
+
+![]()
+
+* Once you have linked workbooks, you need to ensure that they stay in their original location otherwise the links will not be able to update. If the files do move, then you can update the links to the new location.
+* Linking workbooks allows us to create formulas that draw on values contained in other workbooks.
+
