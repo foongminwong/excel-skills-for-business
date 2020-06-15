@@ -41,3 +41,15 @@
 * Named ranges are usually a great idea, rather than using cell references when performing calculations because of the following reasons:
 	* Named ranges are more meaningful to both yourself, as well as communicating the workings of your spreadsheet to others.
 	* Formulas will be faster to create. Otherwise, you will be spending time selecting data, can be time-consuming for large spreadsheets
+
+**Apply Names**
+* Apply Names
+
+![](screenshot/apply-names.gif)
+
+* Paste List
+
+![](screenshot/paste-list.gif)
+
+* Why Paste List useful?
+	* It can be used to show which ranges the named ranges apply to. This is useful if the worksheet is complex and there is a lot going on.
