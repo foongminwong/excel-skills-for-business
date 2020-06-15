@@ -53,3 +53,8 @@
 
 * Why Paste List useful?
 	* It can be used to show which ranges the named ranges apply to. This is useful if the worksheet is complex and there is a lot going on.
+
+**Final Assessment**
+* Travel expenses
+
+![](screenshot/final-assessment.gif)
