@@ -21,3 +21,23 @@
 * `Create from Selection`
 
 ![](screenshot/create-from-selection.gif)
+
+**Managing Named Ranges**
+* Edit, update, audit name ranges
+* `Name Manager`
+
+![](screenshot/name-manager.gif)
+
+**Named Ranges in Formulas**
+* Named Ranges for Caculation
+* Dragging the whole column VS using named ranges when sum/average, etc.
+
+![](screenshot/name-ranges-calculation-1.gif)
+
+* `F3` to get the named ranges
+
+![](screenshot/name-ranges-calculation-2.gif)
+
+* Named ranges are usually a great idea, rather than using cell references when performing calculations because of the following reasons:
+	* Named ranges are more meaningful to both yourself, as well as communicating the workings of your spreadsheet to others.
+	* Formulas will be faster to create. Otherwise, you will be spending time selecting data, can be time-consuming for large spreadsheets
