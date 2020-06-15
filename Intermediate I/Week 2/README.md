@@ -34,3 +34,7 @@
 
 ![](middle-function.gif)
 
+**Finding Text (FIND)**
+* `=MID(K4,4,FIND(" ",K4)-4)`
+
+![](find-function.gif)
