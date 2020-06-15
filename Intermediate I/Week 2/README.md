@@ -20,3 +20,17 @@
 * `=LOWER(C4&"."&B4&"@pushpin.com")`
 
 ![](lower-function.gif)
+
+**Extracting Text (LEFT, MID, RIGHT)**
+* `=LEFT(K4,2)`
+
+![](left-function.gif)
+
+* `=RIGHT(K4,4)`
+
+![](right-function.gif)
+
+* `=MID(K4,4,4)` - Managed to get `WEST`, `NORT` but not `NORTH`
+
+![](middle-function.gif)
+
