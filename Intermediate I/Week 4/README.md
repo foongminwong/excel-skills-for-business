@@ -33,3 +33,10 @@
 * C$20 - No `$` in front of the C which means the column is relative
 * Mixed cell references, $ just locks whatever
 * The way the SUMIFS function works is that if you specify more than one criteria, all of the criteria need to be met before Excel can start summing. In other words, you are telling Excel that both criteria need to be met, rather than either of the criteria need to be met. Have another go.
+
+**Sparklines**
+* Show the trend (LIne or columns)
+* Insert a small chart in a cell
+
+![](screenshot/sparklines.gif)
+
