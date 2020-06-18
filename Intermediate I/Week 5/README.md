@@ -20,5 +20,23 @@
 * Diagonal Arrow
 * Conditional Formatting - show duplicates then remove (Table Tools -> Design)
 
+![](screenshot/remove-duplicates.gif)
 
+**Sorting and Filtering in Tables**
+* Right click context menu, access them on header row 
+* Data and add multiple levels of sort order
 
+![](screenshot/sort-data-level.gif)
+
+* Total Row - makes reporting super quickly
+![](screenshot/total-row.gif)
+
+* Get Top 5 earners
+
+![](screenshot/top-5-earners.gif)
+
+* Years Service (Above Average)
+
+![](screenshot/above-average-years-service.gif)
+
+* Good practice to clear filter when work on a shared Excel environment
