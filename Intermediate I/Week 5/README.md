@@ -16,3 +16,9 @@
 
 * Create Table Shortcut Key - `CTRL + T`
 
+**Working with Tables**
+* Diagonal Arrow
+* Conditional Formatting - show duplicates then remove (Table Tools -> Design)
+
+
+
