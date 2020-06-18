@@ -56,3 +56,21 @@
 	* structured references and named ranges are used for similar things but do have slight differences. One thing is that structured references are automatically created in tables, where named ranges are created manually.
 	* structured references are created automatically in tables.
 	* structured references can have relative cell referencing.
+	
+
+**Converting to Range and Subtotaling**
+* Subtotal Tool - Sumamrizes subsections of your data
+* Breakdown Department - see each department annual salary, pension, package
+* Must `Convert to Range`!
+
+![](screenshot/subtotaling.gif)
+
+* Different level to view dataset
+* can remove subtotaling in the end
+
+* Convert a table to a range by:
+	* right click context menu and going to table then convert to range
+	* navigate to table tools design while clicked on the table and going to Convert to Range in tools
+	
+* The report is a snapshot of the database and won't be updated should the database change
+	
