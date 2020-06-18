@@ -5,7 +5,7 @@
 * Working on Shipping Data
 * `COUNT`- counts number of cells that contain numeric values
 * `COUNTA` -counts non empty cells both numerical & alphanumerical data, number that is not numeric like `Oder No.` with hyphen
-* `OCUNTBLANK`
+* `COUNTBLANK`
 
 ![](screenshot/count.gif)
 
@@ -54,5 +54,21 @@
 
 ![](screenshot/advanced-charting-sales-trends.gif)
 
+**Trendlines**
+* Forecast what future values may look like if they follow that pattern
 
+![](screenshot/trendlines.gif) 
 
+* `CTRL + SHIFT + >` - make it bigger
+
+**Wrap Up**
+* Create good-looking dashboards summarize and present data
+* Building blocks: reporting functions, sparklines, advanced charting
+* these are case-insensitive: `=COUNTIFS(Product_Container, "Small Box")` and `=COUNTIFS(Product_Container, "small box")` do the same thing.
+* ? and *. These are called wildcards and can take the place of a single letter (?) or many letters (*).
+
+![](screenshot/countifs-ninja.PNG)
+
+* If you only have 1 criteria that you want to count, these functions are identical. However, you can also use COUNTIFS when you have multiple criteria. Other functions that follow this pattern are SUMIF/SUMIFS and AVERAGEIF/AVERAGEIFS. We recommend that you always use the -IFS versions of these functions.
+* `COUNTIF(range, criteria)`
+* `COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2]…)`
