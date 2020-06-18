@@ -40,3 +40,19 @@
 
 ![](screenshot/sparklines.gif)
 
+**Advanced Charting**
+* Fix the x axis
+
+![](screenshot/advanced-charting-select-data.gif)
+
+* Change Chart Type - Combo Chart, sales total to the secondary axis
+
+![](screenshot/advanced-charting-change-chart-type.gif)
+
+* Don't want to show negative trend
+* Visual representation of our sales trends
+
+![](screenshot/advanced-charting-sales-trends.gif)
+
+
+
