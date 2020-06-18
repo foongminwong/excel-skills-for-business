@@ -73,4 +73,7 @@
 	* navigate to table tools design while clicked on the table and going to Convert to Range in tools
 	
 * The report is a snapshot of the database and won't be updated should the database change
-	
+
+**Wrap Up**
+* `CTRL + T` - create table
+![](screenshot/named-ranges-vs-tables.PNG)
