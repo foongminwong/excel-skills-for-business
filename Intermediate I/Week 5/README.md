@@ -40,3 +40,19 @@
 ![](screenshot/above-average-years-service.gif)
 
 * Good practice to clear filter when work on a shared Excel environment
+
+**Automation with Tables**
+* `CTRL + SHIFT + WITH +` - create a new row
+* `CTRL + ; ` - to enter today's date as a fixed value
+* Named ranges will now extend to row 39
+* Press `Tab` once in the last cell of the last table row
+* auto-exending rows
+
+* Automation styling when adding a new column
+![](screenshot/automation-styling.gif)
+
+* Structured references:
+	* can be used in calculations.
+	* structured references and named ranges are used for similar things but do have slight differences. One thing is that structured references are automatically created in tables, where named ranges are created manually.
+	* structured references are created automatically in tables.
+	* structured references can have relative cell referencing.
