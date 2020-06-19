@@ -33,3 +33,17 @@
 * Total by Year
 
 ![](screenshot/pivot-total-sales-by-state-year.gif)
+
+**Value Field Settings**
+* Summarize Values By
+
+![](screenshot/summarize-by-values.gif)
+
+* Show Values As (e.g.: percentage as grand total/ column total, original - No calculation)
+* Number Format
+
+![](screenshot/show-values-as.gif)
+
+* Sales by State with subtotals
+
+![](screenshot/sales-by-state-with-subtotals.gif)
