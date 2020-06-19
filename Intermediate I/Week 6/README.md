@@ -47,3 +47,20 @@
 * Sales by State with subtotals
 
 ![](screenshot/sales-by-state-with-subtotals.gif)
+
+**Sorting and Filtering a Pivot Table**
+* Quarterly Sales Trends by region for 2015 and 2016
+* Ungroup and then group by quarter and year based on `Order Date`
+
+![](screenshot/quarterly-sales-trend-group.gif)
+
+* Expand/ Collapse Field
+
+![](screenshot/expand-collapse-field.gif)
+
+* Pivot automatically sort data by Row & Column
+
+* Filter data both by Row and Column Label
+* Quarterly Sales Trends for 2015, 2016 only VIC, WA
+
+![](screeshot/quarterly-sales-2015-2016.gif)
