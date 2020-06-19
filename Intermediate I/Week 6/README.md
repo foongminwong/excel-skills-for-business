@@ -64,3 +64,18 @@
 * Quarterly Sales Trends for 2015, 2016 only VIC, WA
 
 ![](screeshot/quarterly-sales-2015-2016.gif)
+
+**Reporting Filter Pages**
+* Filter data by `Account Manager`
+* Filter the entire pivot to only show a specific account manager
+* Show 3 total values if you filtered with 3 account managers
+* `Show report Filter Pages`
+
+![](screenshot/report-filter-by-account-manager.gif)
+
+* Rename Pivot Table to `Regional Pivot`
+
+* Take a deeper look at sales figures , you can just `double-click` the special/low value, Excel will show the snapshot of all values that we used to create that value
+* `Field List` - On/Off Pivot Tables
+
+![](screenshot/field-list.gif)
