@@ -79,3 +79,12 @@
 * `Field List` - On/Off Pivot Tables
 
 ![](screenshot/field-list.gif)
+
+**Pivoting Charts**
+* Pivot Chart by Customer Type (Pie Chart)
+
+![](screenshot/pivot-pie-chart.gif)
+
+* Pivot Chart + Interactive Dashboard
+
+![](screenshot/pivot-bar-chart-interactive-dashboard.gif)
