@@ -88,3 +88,20 @@
 * Pivot Chart + Interactive Dashboard
 
 ![](screenshot/pivot-bar-chart-interactive-dashboard.gif)
+
+**Pivoting Slicers**
+* Slicer - another tool to filter data, easy to use
+* `Analyze` -> `Insert Slicer`
+* Add Slicers - State, Customer Type, Account Manager
+* Hold down `CTRL` key and multi-select
+
+![](screenshot/slicers-state-custype-accmanager.gif)
+
+* Connect slicers to multiple pivots
+* Slicer Options
+* Make both charts showing data when slicer is clicked
+
+* Interactive visual reports & dashboards
+* `Report Connections` under Slicer
+
+![](screenshot/slicer-report-connect.gif)
