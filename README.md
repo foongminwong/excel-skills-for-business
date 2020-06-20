@@ -32,10 +32,10 @@ Identify, retrieve and change data in spreadsheets
 	* Describe basic chart types in Excel
 	* Produce basic charts in Excel
 	* Modify charts in Excel
-* [Certificate](Essentials/certificate)
+* [Certificate](Essentials/certificate/Coursera%20PPFQLRNLY7WN.pdf)
 
 ## Excel Skills for Business: Intermediate I
-### Skills: 
+### Skills: Concatenation, Data Consolidation, Pivot Table, Pivot Chart
 
 #### Quick Overview
 * [Week 1 - Working with multiple worksheets and workbooks](Intermediate%20I/Week%201)
@@ -65,13 +65,18 @@ Identify, retrieve and change data in spreadsheets
 	* Use Pivot Tables to extract meaning from datasets
 	* Create visual dashboards with slicers and Pivot Charts
 	* Use Slicers to filter information from multiple sources
-* [Certificate](Intermediate%20I/certificate)
+* [Certificate](Intermediate%20I/certificate/Coursera%20ZLHJCQMFCMY5.pdf)
 
 #### Goals
 * Manage large datasets efficiently
 * Extract meaningful information from large datasets
 * Present data and extract information effectively
 * Work with datasets from a variety of sources
+
+## Excel Skills for Business: Intermediate II
+### Lookup Table, Microsoft Excel VBA, Data Validation, Microsoft Excel Macro
+
+In Progress
 
 
 

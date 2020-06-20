@@ -105,3 +105,19 @@
 * `Report Connections` under Slicer
 
 ![](screenshot/slicer-report-connect.gif)
+
+* You can connect a slicer to a pivot table whilst having clicked the slicer.
+* A Slicer is a filter that has been made user-friendly and now anyone can use it with ease by just clicking on what they want the spreadsheet to filter by and the pivot table and charts (dashboard) display accordingly.
+
+**Final Assessment**
+* Analyzing Student Marks
+* `=AVERAGE('Marks Term 1:Marks Term 4'!E4)` - SHIFT through sheets
+* `CTRL + SHIRT + F3` - Create from Selection
+* `=COUNTIFS(Grade,L10)`
+* `=CONCAT(PROPER(B4)," ",PROPER(C4))`
+* `=CONCAT(LOWER(LEFT(B4,1)),LOWER(C4),"@newcollege.com")`
+* `=CONCAT("20",RIGHT(A4,2))`
+* move back and forth through sheets, use `CTRL + PGUP OR PGDOWN` 
+* `Consolidate Tool` - Top Row or Left COlumn (Sum, Count, others)
+* Format Weird Consolidated Data to General
+* Conditional Formatting and find out who has absent MORE THAN 15 DAYS
