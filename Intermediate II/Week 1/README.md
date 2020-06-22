@@ -16,3 +16,31 @@
 * Text Length Data Validation
 
 ![](screenshot/data-validation-2.gif)
+
+**Creating Drop-down Lists**
+* drop-down list - restrict the data entry to a predefined list
+* Data Validation - List
+
+![](screenshot/data-validation-3.gif)
+
+* Showing List as drop down
+
+![](screenshot/data-validation-drop-down.gif)
+
+* Create lookup list from Column `Origin`
+
+![](screenshot/origin-lookup-list.gif)
+
+* each distinct option entered in for the Drop-dwon list would be (1) comma and (2) Comma and space
+
+* Create automated lookup list for use Column `Origin`
+* Using `Named Ranges`!!!
+* Advantage of converting your lookup list into a named range and table:
+	* There is no need to update validation criteria as the look-up list changes.
+	
+![](screenshot/automated-lookup-list.gif)
+
+* Add new origin under automated lookup list (prevent errors!)
+
+![](screenshot/automated-lookup-list-new-origin.gif)
+
