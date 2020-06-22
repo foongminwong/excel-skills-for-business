@@ -44,3 +44,15 @@
 
 ![](screenshot/automated-lookup-list-new-origin.gif)
 
+**Using Formulas in Data Validation**
+* Data Validation - Date (with Caculation)
+* less than or equal to `=today()`
+
+![](screenshot/data-validation-date.gif)
+
+* `COUNTIFS` function to avoid people entering duplciate product code
+* `=countifs(Product_Code,A4) <= 1`
+* Title: Invalid Code
+* Error message: Duplicate product code is not accepted.
+
+![](screenshot/data-validation-count-ifs-duplicate.gif)
