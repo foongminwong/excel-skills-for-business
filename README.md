@@ -74,9 +74,38 @@ Identify, retrieve and change data in spreadsheets
 * Work with datasets from a variety of sources
 
 ## Excel Skills for Business: Intermediate II
-### Lookup Table, Microsoft Excel VBA, Data Validation, Microsoft Excel Macro
+### Lookup Table, VLOOKUP, Microsoft Excel VBA, Data Validation, Microsoft Excel Macro
+* [Week 1 - Data Validation](Intermediate%20II/Week%201)
+	* Set and configure data validation
+	* Work with formulas in data validation
+	* Create and use drop-down lists
+	* Create and apply custom conditional formats
+* [Week 2 - Conditional Logic](Intermediate%20II/Week%202)
+	* Explain the concept of conditional logic in formulas
+	* Evaluate data in a cell using logical tests
+	* Use conditional operations in functions (IF, AND, OR)
+	* Evaluate data with nested IF functions
+* [Week 3 - Automatic Lookups](Intermediate%20II/Week%203)
+	* Use the VLOOKUP function to find and display the contents of a cell
+	* Identify the use and requirements of the range lookup feature
+	* Look up data using the INDEX and MATCH functions
+* [Week 4 - Formula Auditing and Protection](Intermediate%20II/Week%204)
+	* Configure Formula Calculation Options
+	* Trace Precedents and Dependents
+	* Explain how to check for errors in a spreadsheet
+	* Protect workbooks and worksheets
+* [Week 5 - Data Models](Intermediate%20II/Week%205)
+	* Model different scenarios based on input, assumptions and/or outcomes
+	* Use Goal Seek and Solver to investigate what input parameters produce a desired outcome
+	* Use Data Tables and Scenario Manager
+* [Week 6 - Recorded Macros](Intermediate%20II/Week%206)
+	* Identify the uses of macros in Excel
+	* Create macros to automate repetitive tasks
+	* Edit macros to extend their functionality
+	* Manage macros efficiently
 
-In Progress
+
+
 
 
 
