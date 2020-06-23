@@ -56,3 +56,22 @@
 * Error message: Duplicate product code is not accepted.
 
 ![](screenshot/data-validation-count-ifs-duplicate.gif)
+
+**Working with Data Validation**
+* Error: Validation has been added to heading
+* Fix: Clear the validation
+* Identify cells that don't meet current validation criteria
+* Circle Invalid Data
+
+![](screenshot/clear-invalid-data-validation.gif)
+
+* Find & Search (`Find and Select` -> `Go to Special`)
+
+![](screenshot/go-to-special-data-validation-all.gif)
+
+* Validation automatically extends to the rest of the data
+
+* You need to navigate to the Data tab, click on Data Validation and then click on Clear all. Make sure you have selected the relevant cell/s first.
+* Identify cells which contain the same data validation as the currently selected cell
+	* Go to the *Home* tab, click on *Find and Select*, then choose *Go to Special - Data Validation, Same*
+	* This option will show you all the cells that have the same data validation applied to them as your currently selected one.
