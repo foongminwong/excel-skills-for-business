@@ -34,3 +34,13 @@
 
 ![](screenshot/calculate-helper-employee-discount.gif)
 
+**Combining Logical Functions II: Nested IFs**
+* `CTRL + PLUS` - new column
+* Previous Balance Category `=IF(B4=0,"A",(IF(B4>0,"B","C")))`
+
+![](screenshot/previous-balance-category.gif)
+
+* Calculate multi-ifs sibling discount `=IF(G4=1,0,(IF(F4=1,E4*5%,E4*8%)))`
+
+![](screenshot/multi-sibling-discount.gif)
+
