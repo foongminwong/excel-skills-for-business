@@ -44,3 +44,20 @@
 
 ![](screenshot/multi-sibling-discount.gif)
 
+**Handling Errors: IFERROR, IFNA**
+* N/A - Not Applicable
+
+* IFERROR `=IFERROR(AVERAGE('Invoice Data'!$O$4:$O$654),"")`
+
+![](screenshot/iferror.gif)
+
+* IFNA  `=IFNA(VLOOKUP('Invoice Data'!$A4,BPay!$B$4:$D$10,3,0),0)`
+* If it doesn't look up the value, return 0
+
+![](screenshot/ifna.gif)
+
+**More Logical Functions**
+* NOT - `=IF(NOT(A5=1), B5*5%,0)`
+* EXACT - `=IF(Exact(A5, "JOHN"), B5*5%,0)`
+
+
