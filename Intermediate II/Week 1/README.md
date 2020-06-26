@@ -92,4 +92,6 @@
 
 * Cell referencing to apply conditional formatting to the whole row of data set rather than a single cell: Relative references for rows and absolute references for columns
 
+**Week 1 Final Assessment**
+* `CTRL + SHIFT + F3` - create names from selection (named ranges) - good for data validation later
 
