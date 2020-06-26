@@ -60,4 +60,7 @@
 * NOT - `=IF(NOT(A5=1), B5*5%,0)`
 * EXACT - `=IF(Exact(A5, "JOHN"), B5*5%,0)`
 
+**Week 2 Final Assessment**
+* We want to figure out which orders are considered urgent by our customers. This is to be judged by whether they specify that their orders are High priority or Critical priority, or if they choose Express Air for delivery.
+* 
 
