@@ -75,3 +75,21 @@
 * Identify cells which contain the same data validation as the currently selected cell
 	* Go to the *Home* tab, click on *Find and Select*, then choose *Go to Special - Data Validation, Same*
 	* This option will show you all the cells that have the same data validation applied to them as your currently selected one.
+
+**Advanced Conditional Formatting (CF)**
+* CF - create a form of user alerts based on cell values
+* `F4` - remove absolute references
+* Highlight all items with low stock levels
+
+* New rule: `=H4 < J4`
+
+![](screenshot/cf-new-formatting-rule.gif)
+
+* `Conditional Formatting` -> `New Rule` -> `Use a formula to determine which cells to format`
+* New rule: `=$E4=$O$4`
+
+![](screenshot/automated-conditional-formatting-origin.gif)
+
+* Cell referencing to apply conditional formatting to the whole row of data set rather than a single cell: Relative references for rows and absolute references for columns
+
+
