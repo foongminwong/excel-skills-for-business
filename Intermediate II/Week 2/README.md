@@ -24,3 +24,13 @@
 * TRUE if cells X1, Y1, Z1 are in ascending order `=AND(X1<Y1,Y1,Z1`
 
 * TRUE if at least 2 cells with same value `=OR(X1=Y1,X1=Z1,Y1=Z1)`
+
+**Combining Logical Functions I: IF, AND, OR**
+* Calculate 10% Arrears Penalty `=IF(AND(B4>0,C4<>"Y"),B4*10%,0)`
+
+![](screenshot/calculate-arrears-penalty.gif)
+
+* Calculate Helper or Employee Discount `=IF(OR(I4>=16,J4),250,0)`
+
+![](screenshot/calculate-helper-employee-discount.gif)
+
