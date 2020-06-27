@@ -31,5 +31,9 @@
 
 ![](screenshot/error-checking-options-calculate-now.gif)
 
+**Trace Precedents and Dependents**
+* precedent - a cell that is referred to in a formula
+* dependent - a formula that refers to your cell
+
 
 
