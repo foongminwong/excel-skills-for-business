@@ -48,3 +48,9 @@
 
 * Watch Window
 
+**Protecting Workbooks and Worksheets**
+* Restrict Access
+* Password protected
+* Protect Sheet
+
+
