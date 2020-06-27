@@ -20,6 +20,16 @@
 
 ![](screenshot/trace-error.gif)
 
-****
+**Formula Calculation Options**
+* `Circular Reference`
+* inconsistent formula - copy formula from above
+
+![](screenshot/circular-ref-inconsistent-formula.gif)
+
+* Error checking options, manual calculations, calculate now
+* Set it back to automatic
+
+![](screenshot/error-checking-options-calculate-now.gif)
+
 
 
