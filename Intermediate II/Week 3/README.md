@@ -18,3 +18,18 @@
 
 
 ![](screenshot/range-vlookup.gif)
+
+**Exact Matches: Exact Match VLOOKUP**
+* exact matches - false
+* `=VLOOKUP([@Item],'International Price List'!A5:$E$1254,3,FALSE)`
+
+![](screenshot/exact-match-lookup.gif)
+
+* VLOOKUP with Table (more automation)
+* `=VLOOKUP([@Item],parts,3,FALSE)` or `=VLOOKUP([@Item],parts,3,0)`
+
+![](screenshot/exact-match-lookup-tables.gif)
+
+* Q: When is it appropriate to use an exact match VLOOKUP?
+	* A: When you are dealing with a lookup value with a unique identifier, such as bank account numbers, and you want to match to a vertical table.
+
