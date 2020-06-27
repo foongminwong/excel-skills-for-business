@@ -35,5 +35,16 @@
 * precedent - a cell that is referred to in a formula
 * dependent - a formula that refers to your cell
 
+![](screenshot/trace-precedents-dependents.gif)
 
+**Evaluate Formula, Watch Window**
+* Evaluate Formula - 1
+
+![](screenshot/eval-formula-1.gif)
+
+* Evaluate Formula - 2 - Wrong Column
+
+![](screenshot/eval-formula-2.gif)
+
+* Watch Window
 
