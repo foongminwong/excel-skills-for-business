@@ -33,3 +33,34 @@
 * Q: When is it appropriate to use an exact match VLOOKUP?
 	* A: When you are dealing with a lookup value with a unique identifier, such as bank account numbers, and you want to match to a vertical table.
 
+**Finding a Position: MATCH**
+* `MATCH` - miniature of VLOOKUP (don't need to worry about horizontal or vertical)
+* dragging will get relative references
+* `=VLOOKUP([@Item],parts,E$4,FALSE)`
+
+![](screenshot/match-index-headers.gif)
+
+* paste formulas
+
+![](screenshot/match-index-headers-paste-formulas.gif)
+
+**Dynamic Lookups: INDEX, MATCH**
+* `=INDEX(Discounts,3,2)`
+
+![](screenshot/index-match.gif)
+
+* INDEX with MATCH function (automation)
+* `=INDEX(Discounts,MATCH(C11,Discount_Categories,0),MATCH(D11,Customer_Categories,0))`
+
+![]screenshot/index-with-match.gif)
+
+* Discount Category (A, B, C, D) with Customer Category (Bronze, Silver...)
+* `=MATCH(I3,Customer_Categories,0)`
+* `=INDEX(Discounts,MATCH([@Category],Discount_Categories,0),$I$4)`
+![](screenshot/customer-quote-discount.gif)
+
+* MATCH function - returns the position of a lookup value in the lookup array
+* INDEX function - returns the value
+
+* The INDEX MATCH can do horizontal and vertical lookups at the same time.
+* MATCH is used to define the second and/or third argument, i.e., the row or column parameter, of the INDEX function. By using MATCH instead of defining this manually, the function becomes a lot more versatile and automated.
