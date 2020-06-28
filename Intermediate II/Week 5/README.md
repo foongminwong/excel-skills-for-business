@@ -13,3 +13,19 @@
 * `=SUMPRODUCT(1*(E6:E11>=100))`
 
 ![](screenshot/sum-product-logical-test.gif)
+
+**Data Tables**
+* See a range of different outcomes using different inputs using just 1 formula
+
+![](screenshot/calculate-fixed-expenses.gif)
+
+* `Data` -> `What if Analysis` -> `Data Table`
+* One input data table
+* `=TABLE(,E17)`
+
+![](screenshot/one-input-data-table.gif)
+
+* Two input data table
+* array formulas
+
+![](screenshot/two-input-data-table.gif)
