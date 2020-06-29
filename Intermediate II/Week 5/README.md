@@ -36,3 +36,25 @@
 * Project Costing Model
 
 ![](screenshot/goal-seek.gif)
+
+**Scenario Manager**
+* keep diferent data iputs in a single worksheet
+* create selection
+* `Data` -> `What-if Analysis` -> `Scenario Manager`
+
+![](screenshot/scenario-manager.gif)
+
+**Solver**
+* Maximize, minimize values, set it to a specific value
+* Add as scenario
+* add constraints
+
+![](screenshot/solver-set-to-specific-value.gif)
+
+* Set to max
+* Solver - allow us to model different situations with a variety of inputs and constraints & event integrate that with the Scenario Manager
+
+![](screenshot/solver-max-scenario-summary.gif)
+
+**Week 5 Final Assessment**
+* Dataset: Landscape Data
