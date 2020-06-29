@@ -29,3 +29,10 @@
 * array formulas
 
 ![](screenshot/two-input-data-table.gif)
+
+**Goal Seek**
+* Given a cell that has a calculation in it, it'll adjust that cell to a specified value by changing one of the inputs that you provide
+* `What if Analysis` -> `Goal Seek`
+* Project Costing Model
+
+![](screenshot/goal-seek.gif)
