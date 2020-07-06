@@ -26,3 +26,14 @@
 **Working with Macros**
 * Macro Options - change the shortcut key
 * `Alt + F11` - go back to code
+
+**Relative Reference Macros**
+* `Developer` -> `Use Relative References`
+* `Ctrl + Down`
+* Start recording macro
+* `Data` _? `Legacy Wizards` -> `From Text` -> `Delimited` -> `Next` -> `Other - ;`
+* `&`
+* Input box
+* Debug error in macro
+* Why you would choose to user relative references in a macro?
+	* You want to make sure that the amcro choses cells relative to a poition you chose when you recorded the macro
