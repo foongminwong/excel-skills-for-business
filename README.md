@@ -103,7 +103,7 @@ Identify, retrieve and change data in spreadsheets
 	* Create macros to automate repetitive tasks
 	* Edit macros to extend their functionality
 	* Manage macros efficiently
-* [Certificate]() - Pending 🔄
+* [Certificate](Intermediate%20II/certificate/Coursera%AZ6GCL8JGWD6.pdf) ✅
 
 ## Excel Skills for Business: Advanced
 ### Dashboard (Business), Financial Modeling, Data Cleansing
