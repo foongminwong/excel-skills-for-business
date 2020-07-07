@@ -49,4 +49,6 @@
 
 ![](screenshot/goal-seek-guest-profit.gif)
 
-* Scenario Manger
+* Scenario Manager - different scenarios to see how profit will be affected by changing our catering company
+
+![](screenshot/scenario-manager-changing-catering-company.gif)
