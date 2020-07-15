@@ -107,8 +107,35 @@ Identify, retrieve and change data in spreadsheets
 
 ## Excel Skills for Business: Advanced
 ### Dashboard (Business), Financial Modeling, Data Cleansing
-
-*In Progress 🔄*
+* [Week 1 - Spreadsheet Design and Structure](Advanced/Week%201)
+	* Design flexible and auditable spreadsheets
+	* Build robust and transparent calculations
+	* Create self-documenting spreadsheets
+	* Use formatting to enhance functionality
+* [Week 2 - Advanced Formula Techniques](Advanced/Week%202)
+	* Apply structured references in formulas
+	* Explain the use of array formulas
+	* Build formulas with array functions
+	* Use array formulas in calculations
+* [Week 3 - Data Cleaning and Preparation](Advanced/Week%203)
+	* Fix dates with the help of functions
+	* Replace blanks with repeating values
+	* Remove unwanted spaces and characters from data
+* [Week 4 - Finance Functions and Working with Dates](Advanced/Week%204)
+	* Apply date formulas in calculations
+	* Use financial functions in calculations
+	* Create a loan schedule with financial functions
+	* Use depreciation functions
+* [Week 5 - Advanced Lookup Functions](Advanced/Week%205)
+	* Explain R1C1 and A1 referencing style
+	* Use INDIRECT and ADDRESS functions
+	* Create lookups using the OFFSET function
+	* Use INDEX for complex lookups
+* [Week 6 - Building Professional Dashboards](Advanced/Week%206)
+	* Design visual representation of data in dashboards
+	* Prepare data for visual representation
+	* Create interactive dashboard elements
+* [Certificate Pending](Advanced/certificate/)
 
 
 
