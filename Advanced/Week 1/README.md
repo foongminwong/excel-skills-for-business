@@ -15,5 +15,16 @@
 * Then create `tbl_surburbs`
 * Create a new sheet `Report`
 
+**Calculations**
+* `Region` column ==> `=INDEX(Region, MATCH([@Suburb],Suburb,0))`
+* `VLOOKUP` - if columns move around, it's going to break
+* better option here `INDEX` and `MATCH`
+* volatile function - `NOW`, `TODAY`, `OFFSET`, `INDIRECT`
+* `=MONTH([@Date])`, `=YEAR([@Date])`
 
-![](screenshot/.gif)
+* Create a new `Calc` tab
+* Last Sale Date `=MAX(tbl_Sales[Date])`
+* EO = Equals `=EOMONTH(2017-9-20,-12)+1`, go back 12 months, go to 1st date of the following month
+* `=EDATE(A7,1)` add one month and then format to `Short Date`
+* `=AVERAGEIFS()`
+
