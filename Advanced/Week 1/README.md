@@ -28,3 +28,10 @@
 * `=EDATE(A7,1)` add one month and then format to `Short Date`
 * `=AVERAGEIFS()`
 
+**Formatting**
+* Pivot tables - quickly generating data summaries
+* Large data sets - pivot ables will elad to performance issues
+* Save style -> `New Cell Styles`
+* Date Formatting - mmmm yy
+* Slicers - interactive
+
