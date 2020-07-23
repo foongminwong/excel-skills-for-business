@@ -35,3 +35,8 @@
 * Date Formatting - mmmm yy
 * Slicers - interactive
 
+**Documentation**
+* Name manager
+* Data -> Data Validation
+* `Insert Comment`
+
