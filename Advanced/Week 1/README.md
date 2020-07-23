@@ -40,3 +40,8 @@
 * Data -> Data Validation
 * `Insert Comment`
 
+**Interface and Navigation**
+* `CTRL + Drag` - duplicate
+* Add navigation - insert link
+* dynamic named range
+* `nav_end` = `=INDEX(Data!A:A, ROWS(tbl_Sales)+4)`
