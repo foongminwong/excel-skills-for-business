@@ -45,3 +45,6 @@
 * Add navigation - insert link
 * dynamic named range
 * `nav_end` = `=INDEX(Data!A:A, ROWS(tbl_Sales)+4)`
+
+**Assessment**
+* build a simple financial model
