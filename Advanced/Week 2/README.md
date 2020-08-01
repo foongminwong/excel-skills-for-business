@@ -52,4 +52,10 @@
 * mult-cell array formula
 	* `=LARGE(D4:D36,{1;2;3})` - `D4:D36 - ALL AUD PRICE`, k is the constant array 1,2,3 then `CTRL + SHIFT+ENTER`
 	
-	
+**Working with an Array Function (TRANSPOSE)**
+* mode multifunction
+* copy * paste transpose
+* select the cells that the values you want to go, `=TRANSPOSE(A4:A14)`, then `CTRL + SHIFT+ENTER`
+* inverse
+* `=TRANSPOSE(1/B5:B14)` - for other currency conversion rate
+* 
