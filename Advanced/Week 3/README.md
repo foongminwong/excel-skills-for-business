@@ -20,3 +20,8 @@
 	* `=DATE(LEFT(Sheet!F2,4),MID(Sheet!F2,6,2),RIGHT(Sheet!F2,2))`
 * 2015.04.05
 
+**Remove Unwanted Spaces (TRIM, CLEAN)**
+* Remove leading, trailing, extra spaces `=TRIM(Data!B3)`
+* `PivotTable Tools` -> `Analyze` -> `Refresh`
+* Removes many, but not all, of the non-printing characters
+	* =TRIM(CLEAN(Data!B3))`
