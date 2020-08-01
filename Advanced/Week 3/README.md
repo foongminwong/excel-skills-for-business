@@ -30,3 +30,8 @@
 * Convert text numbers back to numerics, and remove any additional hidden spaces
 * CODE function - convert to its decimal code `=CODE(RIGHT(I2,1))`
 * Get rid of OF 160
+
+**Remove Unwanted Characters (SUBSTITUTE, CHAR, VALUE)**
+* `=SUBSTITUTE(DATA!G2," ", "")`
+* `=VALUETRIM(SUBSTITUTE(Data!H2,CHAR(160),"")))` - char(160) -> non-breaking space characters
+* 
