@@ -33,4 +33,13 @@
 * Absolute Structured References
 	* Best Quarters (1,2,3)
 	* `=LARGE[Sales[Australia],TopQtr[@[Best Quarters]:[Best Quarters]]`
-* Whne you add 1 new row, ALL calcs have updated to reflect the changes
+* When you add 1 new row, ALL calcs have updated to reflect the changes
+
+**Using Functions to Sort Data**
+* sorted everytime when they come & refresh data
+* `Data` -> `Get Data` -> `Legacy Wizards` -> `From Web`
+* Hit `No`
+* `COUNTIFS(rateCodes,"<="&)` - codes get ranking
+* `&` to join that to my cell reference
+* `=MATCH(ROW()-4,N5:N14,0)` - say that value 1 is in 4th position
+* Right order currency conversion table - `=INDEX(rateCodes,MATCH(ROW()-4,N5:N14,0))`
