@@ -25,3 +25,8 @@
 * `PivotTable Tools` -> `Analyze` -> `Refresh`
 * Removes many, but not all, of the non-printing characters
 	* =TRIM(CLEAN(Data!B3))`
+	
+**Diagnostic Tools (ISNUMBER, LEN, CODE)**
+* Convert text numbers back to numerics, and remove any additional hidden spaces
+* CODE function - convert to its decimal code `=CODE(RIGHT(I2,1))`
+* Get rid of OF 160
