@@ -10,3 +10,13 @@
 **Replace blanks with repeating values**
 * `Go to Special` -> Select `Blank` -> Paste the copied `=A3`
 * `=IF(ISBLANK(Sheet!A2),A1,Sheet!A2)`
+
+**Fix Dates (DATE, MONTH, YEAR, DAY, TEXT)**
+* `=TODAY()`
+* dd = 17, ddd = Tue, dddd = Tuesday
+* Join Month - `=TEXT(J1, "mmmm")`
+* Join Date
+	* chop off text into day, month,year, reformat it as a recognized Excel date 
+	* `=DATE(LEFT(Sheet!F2,4),MID(Sheet!F2,6,2),RIGHT(Sheet!F2,2))`
+* 2015.04.05
+
