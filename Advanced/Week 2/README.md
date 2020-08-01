@@ -58,4 +58,10 @@
 * select the cells that the values you want to go, `=TRANSPOSE(A4:A14)`, then `CTRL + SHIFT+ENTER`
 * inverse
 * `=TRANSPOSE(1/B5:B14)` - for other currency conversion rate
-* 
+* then the rest will be `=B5:B14*C4:L4`
+
+**Solving Problems with Array Problems**
+* `SUM(IFNA(H7:H17*I7:I17,0))`
+* compare data sets and identify differences
+* Increased: `=SUM((USD_Price>OLD_USD_Price)*1)`
+* Decreased: `=SUM((USD_Price<OLD_USD_Price)*1)`
