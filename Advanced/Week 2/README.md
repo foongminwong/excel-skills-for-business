@@ -43,3 +43,13 @@
 * `&` to join that to my cell reference
 * `=MATCH(ROW()-4,N5:N14,0)` - say that value 1 is in 4th position
 * Right order currency conversion table - `=INDEX(rateCodes,MATCH(ROW()-4,N5:N14,0))`
+
+**Introduction to Array Formulas**
+* E.g.: Product List Sheet
+* Array functions <-> CSE formulas - `CTRL + SHIFT + Enter`
+* `=C4:C36*H4` - `C4:C36 USD PRICE`, `H4 AUD RATE`
+* `=SUM(H7:H9*I7:I9)` - `H7:H9 QUANTITY`, `I7:I9 AUD PRICE`, then `CTRL + SHIFT+ENTER`
+* mult-cell array formula
+	* `=LARGE(D4:D36,{1;2;3})` - `D4:D36 - ALL AUD PRICE`, k is the constant array 1,2,3 then `CTRL + SHIFT+ENTER`
+	
+	
