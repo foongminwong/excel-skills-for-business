@@ -44,3 +44,4 @@
 
 **Net Present Value and Internal Rate of Return (NPV, IRR)**
 
+**Depreciation Functions (SLN, SYD, DDB)**
