@@ -8,4 +8,13 @@
 * Dashboards, Data preparation, Dashboard design, Interactive dashboards
 
 **Dashboard Design**
+
+**Prepare Data**
+
+**Construct Dashboard**
+
+**Creative Charting**
+
+**Interactive Dashboard**
+
  
