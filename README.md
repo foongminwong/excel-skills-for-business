@@ -135,7 +135,7 @@ Identify, retrieve and change data in spreadsheets
 	* Design visual representation of data in dashboards
 	* Prepare data for visual representation
 	* Create interactive dashboard elements
-* [Certificate Pending](Advanced/certificate/)
+* [Certificate Pending](Advanced/certificate/)Coursera%207622X75WYLB3
 
 
 
