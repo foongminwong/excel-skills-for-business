@@ -34,3 +34,10 @@
 * Amount to be invested now -  `=PV(B3,B4,B5,B6)`
 * Amount to be invested at the end of every year - `=PMT(B3,B4,B5,B6)`
 
+**Loan Schedule (PMT, EDATE)**
+* Calculate what the repayments would be on a loan
+* Period Per year `=IF(C10="Monthly",12,1)`
+* Repayment Periods (NPER) = 
+* Rate per Period `=C8/C12`
+* Monthly Payment `=-PMT(G7,C13,C7)` negative because the value is outgoing
+* Projected Interest
