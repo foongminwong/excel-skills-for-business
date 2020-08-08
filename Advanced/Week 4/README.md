@@ -41,3 +41,6 @@
 * Rate per Period `=C8/C12`
 * Monthly Payment `=-PMT(G7,C13,C7)` negative because the value is outgoing
 * Projected Interest
+
+**Net Present Value and Internal Rate of Return (NPV, IRR)**
+
