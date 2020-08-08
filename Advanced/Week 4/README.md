@@ -23,3 +23,14 @@
 * workday and workday international function
 	* `=WORKDAY.INTL(EOMONTH(C5,0),10,1,K5:K7)`, K5:K7 - holiday days
 * Reminder Date - `=EDATE(C5,2)`
+
+**Financial Functions (FV, PV, PMT)**
+* Client investment queries
+* FV (Future Value) - how much an investment will be worth in the future
+* PV (Present Value) - amount you're going to invest or borrow at the current time
+* RATE (Rate) - the rate you're going to earn per Payment Period (NPER)
+* PMT (Payment Amount) - regular payment we'll be making monthly or annually
+* Value of investment at the end of 25th year: `=FV(B3,B4,B5,B6,0)`, 0 - end of period
+* Amount to be invested now -  `=PV(B3,B4,B5,B6)`
+* Amount to be invested at the end of every year - `=PMT(B3,B4,B5,B6)`
+
